@@ -8,3 +8,4 @@ madebycubiquwu; // good work tbh ngl
 color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: fill; width: 100%; opacity: .8; background: url('https://github.com/alperenisa/alperenisa/blob/main/teteosnet_pattern.png?raw=true'); background-size: auto;"]{}
 
 ```
+yeni arkaplan çok hawli durmuyor mu?
