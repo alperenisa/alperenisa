@@ -5,6 +5,6 @@ Eski hesabımı ([@afacanc38](https://github.com/afacanc38)) iki adımlı doğru
 
 madebycubiquwu; // good work tbh ngl
 
-color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: fill; width: 100%; opacity: 0.2; background: url('https://www.teteos.net/hasanmerkit/patterns/default_dark.jpg'); background-size: cover;"]{}
+color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 1000%; object-fit: fill; width: 1000%; opacity: 0.2; background: url('https://www.teteos.net/hasanmerkit/patterns/default_dark.jpg'); background-size: cover;"]{}
 
 ```
